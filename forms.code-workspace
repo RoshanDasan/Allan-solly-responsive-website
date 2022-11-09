@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Personal portfolio/forms"
+		},
+		{
+			"path": "../Personal portfolio/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "forms"
+	}
+}
